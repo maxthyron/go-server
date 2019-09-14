@@ -24,7 +24,7 @@
 #   go-tests = true
 #   unused-packages = true
 
-[mettadatta.heroku]
+[metadata.heroku]
   root-package = "github.com/maxthyron/go-server"
   go-version = "1.12.7"
   install = [ "./..." ]
